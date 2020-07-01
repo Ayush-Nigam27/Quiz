@@ -1,0 +1,27 @@
+.style {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+}
+.style1 {
+	color: #CC0000;
+	font-style: italic;
+}
+.style2 {font-weight: bold}
+.style5 {color: #CC0000}
+.style6 {color: #000000}
+#front{
+    background:#CCCCCC;
+}
+#btn{
+    padding:10px;
+    background:#fff;
+    border:20px;
+    outline:none;
+    font-size:18px;
+    cursor:pointer;
+}
+#relquz{
+    display:none;
+    background:#009BFF;
+}
